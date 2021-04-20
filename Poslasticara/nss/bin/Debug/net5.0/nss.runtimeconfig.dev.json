@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vulee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vulee\\.nuget\\packages"
+    ]
+  }
+}
